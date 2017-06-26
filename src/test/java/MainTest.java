@@ -7,10 +7,6 @@
 import com.so.thirdtask.Main;
 import org.junit.Test; 
 
-/**
- *
- * @author Влад
- */
 public class MainTest {
 
     public MainTest() {
