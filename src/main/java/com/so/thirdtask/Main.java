@@ -7,10 +7,6 @@ package com.so.thirdtask;
 
 import java.math.BigInteger;
 
-/**
- *
- * @author Влад
- */
 public class Main {
 
     /**
